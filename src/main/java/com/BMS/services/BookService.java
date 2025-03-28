@@ -81,7 +81,6 @@ public class BookService {
 
     // Validate book details
     private void validateBook(Book book) {
-        System.out.println("Checking Validation");
         if (book.getBookId() == null || book.getBookId().trim().isEmpty()) {
             throw new ValidationException("Book ID cannot be empty");
         }
