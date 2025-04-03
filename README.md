@@ -36,7 +36,7 @@ Run unit tests using `mvn test`
 The application can be packaged and deployed using `mvn package`
 
 ## Live Service Link
-[Click here to access the application](https://bookmanagementsystem-mz9e.onrender.com)
+[Click here to access the application](https://bookmanagementsystem-mz9e.onrender.com/api/books)
 
 ## Challenges and Improvements
 - Implemented basic validation and exception handling
